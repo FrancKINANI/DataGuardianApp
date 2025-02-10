@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DataGuardian</string>
+    <string name="welcome_message">Bienvenue sur DataGuardian</string>
+    <string name="app_description">Surveillez et contrôlez le trafic réseau de votre appareil en temps réel.</string>
+    <string name="start_monitoring">Démarrer la surveillance</string>
+    <string name="stop_monitoring">Arrêter la surveillance</string>
+    <string name="view_live_traffic">Voir le trafic en direct</string>
+    <string name="view_history">Historique</string>
+    <string name="settings">Paramètres</string>
+    <string name="vpn_permission_required">Permission VPN requise</string>
+    <string name="vpn_permission_message">DataGuardian nécessite la permission VPN pour surveiller le trafic réseau.</string>
+    <string name="grant_permission">Accorder la permission</string>
+    <string name="cancel">Annuler</string>
+    <string name="live_traffic">Trafic en Direct</string>
+    <string name="protocol_port">Protocole: %1$s Port: %2$d</string>
+    <string name="data_sent">Envoyé: %1$s</string>
+    <string name="data_received">Reçu: %1$s</string>
+    <string name="no_connections">Aucune connexion active</string>
+    
+    <!-- Paramètres -->
+    <string name="enable_notifications">Activer les notifications</string>
+    <string name="notifications_description">Recevoir des alertes pour le trafic suspect et l\'utilisation des données</string>
+    <string name="keep_history">Conserver l\'historique</string>
+    <string name="history_description">Enregistrer l\'historique des connexions pour consultation ultérieure</string>
+    <string name="enable_filtering">Activer le filtrage</string>
+    <string name="filtering_description">Bloquer automatiquement les connexions suspectes</string>
+    <string name="history">Historique</string>
+    <string name="select_date">Sélectionner une date</string>
+    <string name="history_empty">Aucune donnée pour cette date</string>
+    <string name="suspicious_traffic_detected">Trafic suspect détecté</string>
+    <string name="data_usage_warning">Utilisation importante des données</string>
+</resources> 
