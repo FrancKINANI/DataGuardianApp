@@ -1,0 +1,56 @@
+{
+  "name": "dataguardianapp",
+  "version": "1.0.0",
+  "main": "expo-router/entry",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "1.21.0",
+    "@react-native-community/datetimepicker": "7.6.1",
+    "@react-native-community/netinfo": "11.1.0",
+    "@react-navigation/bottom-tabs": "^6.6.1",
+    "@react-navigation/core": "^6.4.17",
+    "@react-navigation/native": "^6.1.18",
+    "@supabase/supabase-js": "^2.48.1",
+    "date-fns": "^4.1.0",
+    "expo": "^52.0.16",
+    "expo-constants": "~17.0.2",
+    "expo-file-system": "~18.0.10",
+    "expo-linking": "~7.0.2",
+    "expo-notifications": "~0.29.13",
+    "expo-router": "~4.0.2",
+    "expo-sharing": "~13.0.1",
+    "expo-splash-screen": "~0.29.7",
+    "expo-status-bar": "~2.0.0",
+    "react": "18.3.1",
+    "react-dom": "^18.3.1",
+    "react-native": "0.76.3",
+    "react-native-chart-kit": "^6.12.0",
+    "react-native-gesture-handler": "~2.20.2",
+    "react-native-paper": "^5.12.3",
+    "react-native-safe-area-context": "4.12.0",
+    "react-native-screens": "~4.1.0",
+    "react-native-svg": "15.8.0",
+    "react-native-url-polyfill": "^2.0.0",
+    "react-native-web": "~0.19.6"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0",
+    "@babel/plugin-transform-class-properties": "^7.23.3",
+    "@babel/plugin-transform-nullish-coalescing-operator": "^7.23.4",
+    "@babel/plugin-transform-optional-chaining": "^7.23.4",
+    "@types/react": "~18.3.12",
+    "@types/react-dom": "^18.2.19",
+    "typescript": "^5.3.3"
+  },
+  "resolutions": {
+    "glob": "^9.3.5",
+    "rimraf": "^5.0.5",
+    "@xmldom/xmldom": "^0.8.10"
+  },
+  "private": true
+}
